@@ -1,0 +1,3 @@
+HF Spaces defaults to demo unless .hfspace tells it:
+"streamlit_app.py = main file"
+→ **Medical Chatbot loads instead of spiral demo**
